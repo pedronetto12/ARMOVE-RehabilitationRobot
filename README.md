@@ -21,6 +21,7 @@ This work delivers a validated, open-source platform, demonstrating the feasibil
 <div align="center">
   <img src="img/operacaorobo.jpeg" alt="ARMOVE em operação" width="450"/>
 </div>
+
 ## ✨ Features
 
 * **Omnidirectional Movement:** Utilizes four Mecanum wheels driven by NEMA 17 stepper motors, allowing for fluid, planar movement in any direction (X-Y plane) without needing to reorient the chassis. 
