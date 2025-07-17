@@ -67,8 +67,6 @@ The architecture is modular and built upon the **FreeRTOS** real-time operating 
     3.  **Bluetooth (`ContrMouse`):** A lower-priority task that sends cursor movement data over BLE.
     4.  **LED Status (`ledTask`):** A simple task to provide visual feedback on the system's state.
 
-The source code is located in the `/include` directory and is organized into the modules described above. The full source code can also be found in Appendix A of the thesis.
-
 ## ⚙️ Installation & Setup
 
 1.  **Clone the Repository:**
