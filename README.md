@@ -48,7 +48,7 @@ The prototype integrates the following key components:
 | **Chassis** | Custom 3D Printed (PLA) | Houses all electronic and mechanical components. |
 
 ### Electrical Diagram
-The complete electrical schematic detailing the interconnections between all components is shown below.
+The complete electrical schematic detailing the interconnections between all components can be found at the link below.
 [Electrical Diagram](https://github.com/pedronetto12/ARMOVE-RehabilitationRobot/blob/main/img/Schematic_tccpedronetto_2025-07-16.png)
 
 ## 💻 Software
