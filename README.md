@@ -46,8 +46,7 @@ The prototype integrates the following key components:
 ### Electrical Diagram
 The complete electrical schematic detailing the interconnections between all components is shown below.
 
-![Electrical Diagram]([https://raw.githubusercontent.com/pedronetto12/ARMOVE-Rehabilitation-Robot/main/img/esquema_eletrico.png](https://github.com/pedronetto12/ARMOVE-RehabilitationRobot/blob/main/img/Schematic_tccpedronetto_2025-07-16.png))
-*(Source: Figure 19 from the thesis document )*
+![Electrical Diagram]([https://github.com/pedronetto12/ARMOVE-RehabilitationRobot/blob/main/img/Schematic_tccpedronetto_2025-07-16.png])
 
 ## 💻 Software
 
