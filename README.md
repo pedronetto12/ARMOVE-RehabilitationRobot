@@ -7,7 +7,7 @@
 **Institution:** Universidade do Estado de Santa Catarina (UDESC) 
 **Course:** Bachelor's in Electrical Engineering 
 
-This repository contains all the necessary files and documentation for the ARMOVE project, an active omnidirectional robotic device for the gross motor function rehabilitation of the upper limb. [4] The project was developed as a Final Coursework (TCC) for the Bachelor's degree in Electrical Engineering at UDESC, Joinville.
+This repository contains all the necessary files and documentation for the ARMOVE project, an active omnidirectional robotic device for the gross motor function rehabilitation of the upper limb. The project was developed as a Final Coursework (TCC) for the Bachelor's degree in Electrical Engineering at UDESC, Joinville.
 
 ---
 
@@ -51,7 +51,7 @@ The complete electrical schematic detailing the interconnections between all com
 
 ## 💻 Software
 
-The embedded software is built using the **PlatformIO** framework within VSCode. [625] This ensures a reproducible build environment by managing exact versions of libraries and the ESP32 hardware platform (`espressif32@6.2.0`). 
+The embedded software is built using the **PlatformIO** framework within VSCode. This ensures a reproducible build environment by managing exact versions of libraries and the ESP32 hardware platform (`espressif32@6.2.0`). 
 
 ### Architecture
 The architecture is modular and built upon the **FreeRTOS** real-time operating system to handle concurrent tasks efficiently. 
@@ -120,7 +120,7 @@ This procedure determines the calibration factor needed to convert the raw ADC r
 ## ▶️ How to Operate
 
 1.  **Power On:** Turn on the main power switch. The onboard LED will blink during initialization.
-2.  **Ready State:** The LED will turn solid, indicating that initialization is complete and the device is ready. [937] The BLE service is now advertising.
+2.  **Ready State:** The LED will turn solid, indicating that initialization is complete and the device is ready. The BLE service is now advertising.
 3.  **Connect via Bluetooth:** On a computer, search for Bluetooth devices and pair with **"Rehabilitation Robot"**. The device will be recognized as a standard mouse.
 4.  **Begin Therapy:**
     * Place the robot on a flat, smooth surface.
