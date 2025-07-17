@@ -18,7 +18,9 @@ The device, functionally inspired by the commercial Armotion system, allows a pa
 
 This work delivers a validated, open-source platform, demonstrating the feasibility of more accessible assistive technologies and inviting multidisciplinary collaboration for its evolution into a complete clinical tool.
 
-<img src="img/operacaorobo.jpeg" alt="ARMOVE em operação" width="400"/>
+<div align="center">
+  <img src="img/operacaorobo.jpeg" alt="ARMOVE em operação" width="450"/>
+</div>
 ## ✨ Features
 
 * **Omnidirectional Movement:** Utilizes four Mecanum wheels driven by NEMA 17 stepper motors, allowing for fluid, planar movement in any direction (X-Y plane) without needing to reorient the chassis. 
