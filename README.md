@@ -111,7 +111,7 @@ This procedure determines the calibration factor needed to convert the raw ADC r
     * Next, place a **known weight** (e.g., 5 kg) on the sensor platform.
     * Enter the known weight value (e.g., `5000.0` for grams) into the serial monitor.
     * The sketch will calculate and display a new calibration factor.
-3.  **Update Firmware:** Record the calibration factors for each of the four load cells and update the following `#define` constants in `/indlude/celulas.h`:
+3.  **Update Firmware:** Record the calibration factors for each of the four load cells and update the following `#define` constants in `/include/celulas.h`:
     ```cpp
     #define calValueCellXp 43.53 // Replace with your value
     #define calValueCellXn 41.06 // Replace with your value
